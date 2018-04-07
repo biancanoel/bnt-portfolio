@@ -240,6 +240,10 @@ h6 {
     
 }
 
+.section-header {
+    color: rgb(77, 197, 245)
+}
+
 .portfolio-item {
     display: block;
     position: relative;

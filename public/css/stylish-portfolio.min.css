@@ -240,6 +240,12 @@ h6 {
     
 }
 
+.instafeed {
+    width:70%;
+    margin: 0 auto;
+
+}
+
 .section-header {
     color: rgb(77, 197, 245)
 }

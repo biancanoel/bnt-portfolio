@@ -237,14 +237,18 @@ h6 {
     line-height: 50px;
     width: 65%;
     font-size: 120%;
-    
+}
+
+.about-me-icons {
+    font-size: 350%;
+    margin-top: 10%
 }
 
 .instafeed {
     width:70%;
     margin: 0 auto;
-
 }
+
 
 .section-header {
     color: rgb(77, 197, 245)
